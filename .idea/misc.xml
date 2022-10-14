@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GAMING PC/Desktop/New folder (6)/final/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/drawable/but.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/drawable/button.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_decode.xml" value="0.33" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_decode_i.xml" value="0.3433628318584071" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_encode.xml" value="0.33" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_encode_i.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_image.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/GAMING PC/Desktop/final/myapplication/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/GAMING PC/Desktop/just in case/final/app/src/main/res/layout/activity_encode.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/GAMING PC/Desktop/just in case/final/app/src/main/res/layout/activity_main.xml" value="0.19746376811594202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
